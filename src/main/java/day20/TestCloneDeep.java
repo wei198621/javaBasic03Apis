@@ -23,8 +23,8 @@ public class TestCloneDeep {
         System.out.println("s2 = " + s2);   //Student implements  Cloneable{  正常clone
 
         System.out.println("s== s2 = " + (s == s2));  //  false 不是同一个对象
-        System.out.println(s.getTeacher()==s2.getTeacher()) ;  //true
-        System.out.println(s.getName() == s2.getName());     //true
+        System.out.println(s.getTeacher()==s2.getTeacher()) ;  //false
+        System.out.println(s.getName() == s2.getName());     //false
 
     }
 }

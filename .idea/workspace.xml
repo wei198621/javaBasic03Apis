@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09646b40-2668-4d98-8433-b86a34c12177" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/day18/TestException.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/day18/TestException2TryCatch.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/day18/TestFinally.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/day19/TestAnnotation.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/day19/TestBufferedStream.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/day19/TestFileCopy.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/day19/TestFileCopyByBuffered.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/day19/TestInputStream.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/day19/TestObjectStream.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/day19/TestOutputStream.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/day19/TestOutputStream2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/day19/TestPrintf.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/day19/TestStaticImport.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/day20/TestClone.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/day20/TestCloneDeep.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day20/TestCloneDeep.java" afterPath="$PROJECT_DIR$/src/main/java/day20/TestCloneDeep.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -53,7 +38,7 @@
       <file leaf-file-name="TestClone.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/day20/TestClone.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
+            <state relative-caret-position="-207">
               <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="22" />
               <folding>
                 <element signature="e#766#767#0" expanded="true" />
@@ -70,8 +55,8 @@
       <file leaf-file-name="TestCloneDeep.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/day20/TestCloneDeep.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="26" />
+            <state relative-caret-position="153">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -501,12 +486,12 @@
       <updated>1609199355660</updated>
       <workItem from="1609199359052" duration="6050000" />
       <workItem from="1609211366559" duration="29556000" />
-      <workItem from="1609284027762" duration="24482000" />
+      <workItem from="1609284027762" duration="24648000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60088000" />
+    <option name="totallyTimeSpent" value="60254000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1911" y="-9" width="1618" height="868" extended-state="6" />
@@ -521,7 +506,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18776824" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33233532" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33233532" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1088,7 +1073,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/day20/TestClone.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
+        <state relative-caret-position="-207">
           <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="22" />
           <folding>
             <element signature="e#766#767#0" expanded="true" />
@@ -1103,8 +1088,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/day20/TestCloneDeep.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="26" />
+        <state relative-caret-position="153">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
