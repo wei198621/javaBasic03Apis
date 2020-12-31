@@ -2,19 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09646b40-2668-4d98-8433-b86a34c12177" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/day20/TestEncodingDecoding.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/day20/TestFile.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/day20/TestReaderWriter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/day20/TestReaderWriter02.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/day21/TestCallable.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/day21/TestExecutor.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/day21/TestThread.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/day21/TestThread2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/day22/TestSynchronized.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/day22/TestSynchronizedMethod.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/day22/day22/TestQueue.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/a.txt" afterPath="$PROJECT_DIR$/a.txt" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day14/day15/TestList.java" afterPath="$PROJECT_DIR$/src/main/java/day15/TestList.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day14/day15/TestListGenerics.java" afterPath="$PROJECT_DIR$/src/main/java/day15/TestListGenerics.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day22/TestSynchronized.java" afterPath="$PROJECT_DIR$/src/main/java/day22/TestSynchronized.java" />
+      <change beforePath="$PROJECT_DIR$/target/classes/day22/MyList.class" afterPath="$PROJECT_DIR$/target/classes/day22/MyList.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/day22/TestSynchronized$1.class" afterPath="$PROJECT_DIR$/target/classes/day22/TestSynchronized$1.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/day22/TestSynchronized$2.class" afterPath="$PROJECT_DIR$/target/classes/day22/TestSynchronized$2.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/day22/TestSynchronized.class" afterPath="$PROJECT_DIR$/target/classes/day22/TestSynchronized.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,18 +22,69 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="TestSynchronized.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestSynchronized.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/day22/TestSynchronized.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="55" column="32" lean-forward="true" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
+            <state relative-caret-position="355">
+              <caret line="45" column="5" lean-forward="true" selection-start-line="28" selection-start-column="2" selection-end-line="45" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#674#775#0" expanded="true" />
-                <element signature="e#774#775#0" expanded="true" />
-                <element signature="e#797#898#0" expanded="true" />
-                <element signature="e#897#898#0" expanded="true" />
+                <element signature="e#695#796#0" expanded="true" />
+                <element signature="e#795#796#0" expanded="true" />
+                <element signature="e#818#919#0" expanded="true" />
+                <element signature="e#918#919#0" expanded="true" />
+                <element signature="e#1237#1410#0" expanded="true" />
+                <element signature="e#1409#1410#0" expanded="true" />
+                <element signature="e#1432#1604#0" expanded="true" />
+                <element signature="e#1603#1604#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestSynchronizedMethod.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/day22/TestSynchronizedMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+              <folding>
+                <element signature="e#345#476#0" expanded="true" />
+                <element signature="e#475#476#0" expanded="true" />
+                <element signature="e#498#629#0" expanded="true" />
+                <element signature="e#628#629#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestQueue.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/day22/day22/TestQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="91">
+              <caret line="17" column="40" lean-forward="false" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/developer_tools/Java/jdk1.8.0_45/src.zip!/java/util/LinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="84" column="18" lean-forward="false" selection-start-line="84" selection-start-column="18" selection-end-line="84" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="List.java" pinned="false" current-in-tab="true">
+        <entry file="jar://C:/developer_tools/Java/jdk1.8.0_45/src.zip!/java/util/List.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="111" column="23" lean-forward="true" selection-start-line="111" selection-start-column="23" selection-end-line="111" selection-end-column="23" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -118,6 +164,8 @@
         <option value="$PROJECT_DIR$/src/main/java/day21/TestExecutor.java" />
         <option value="$PROJECT_DIR$/src/main/java/day21/TestCallable.java" />
         <option value="$PROJECT_DIR$/src/main/java/day22/TestSynchronized.java" />
+        <option value="$PROJECT_DIR$/src/main/java/day22/TestSynchronizedMethod.java" />
+        <option value="$PROJECT_DIR$/src/main/java/day22/day22/TestQueue.java" />
       </list>
     </option>
   </component>
@@ -209,7 +257,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="day15" type="462c0819:PsiDirectoryNode" />
+              <item name="day22" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javabasic03apis" type="b2602c69:ProjectViewProjectNode" />
@@ -217,15 +265,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="day15" type="462c0819:PsiDirectoryNode" />
-              <item name="TestList.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="javabasic03apis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaBasic03Apis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="day22" type="462c0819:PsiDirectoryNode" />
               <item name="day22" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -236,6 +276,15 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="day22" type="462c0819:PsiDirectoryNode" />
               <item name="TestSynchronized.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="javabasic03apis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaBasic03Apis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="day22" type="462c0819:PsiDirectoryNode" />
+              <item name="TestSynchronizedMethod.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -278,7 +327,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestSynchronized">
+  <component name="RunManager" selected="Application.TestSynchronizedMethod">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -343,14 +392,14 @@
       <module name="javaBasic03Apis" />
       <envs />
     </configuration>
-    <configuration name="TestThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSynchronizedMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="day21.*" />
+          <option name="PATTERN" value="day22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="day21.TestThread" />
+      <option name="MAIN_CLASS_NAME" value="day22.TestSynchronizedMethod" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -456,19 +505,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.TestThread" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TestThread2" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TestExecutor" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TestCallable" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TestSynchronized" />
+      <item index="0" class="java.lang.String" itemvalue="Application.TestThread2" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TestExecutor" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TestCallable" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TestSynchronized" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestSynchronizedMethod" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestSynchronized" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TestCallable" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TestExecutor" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TestThread2" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TestThread" />
+        <item index="0" class="java.lang.String" itemvalue="Application.TestSynchronizedMethod" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestSynchronized" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TestCallable" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TestExecutor" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TestThread2" />
       </list>
     </recent_temporary>
   </component>
@@ -489,12 +538,12 @@
       <workItem from="1609211366559" duration="29556000" />
       <workItem from="1609284027762" duration="25343000" />
       <workItem from="1609373906466" duration="8717000" />
-      <workItem from="1609386068805" duration="15541000" />
+      <workItem from="1609386068805" duration="18231000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85207000" />
+    <option name="totallyTimeSpent" value="87897000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1911" y="-9" width="1618" height="868" extended-state="6" />
@@ -545,28 +594,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/day17/TestSales.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="61" column="29" lean-forward="false" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/day19.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/day19/TestStaticImport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="28" column="32" lean-forward="false" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/day19/TestAnnotation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-230">
-          <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/day19/TestPrintf.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
@@ -702,6 +729,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="83">
           <caret line="171" column="67" lean-forward="true" selection-start-line="171" selection-start-column="67" selection-end-line="171" selection-end-column="67" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -924,7 +952,7 @@
         <state relative-caret-position="299">
           <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -955,15 +983,58 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/day22/TestSynchronized.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="55" column="32" lean-forward="true" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
+        <state relative-caret-position="355">
+          <caret line="45" column="5" lean-forward="true" selection-start-line="28" selection-start-column="2" selection-end-line="45" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#674#775#0" expanded="true" />
-            <element signature="e#774#775#0" expanded="true" />
-            <element signature="e#797#898#0" expanded="true" />
-            <element signature="e#897#898#0" expanded="true" />
+            <element signature="e#695#796#0" expanded="true" />
+            <element signature="e#795#796#0" expanded="true" />
+            <element signature="e#818#919#0" expanded="true" />
+            <element signature="e#918#919#0" expanded="true" />
+            <element signature="e#1237#1410#0" expanded="true" />
+            <element signature="e#1409#1410#0" expanded="true" />
+            <element signature="e#1432#1604#0" expanded="true" />
+            <element signature="e#1603#1604#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/day22/TestSynchronizedMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding>
+            <element signature="e#345#476#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#498#629#0" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/day22/day22/TestQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="17" column="40" lean-forward="false" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/developer_tools/Java/jdk1.8.0_45/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="84" column="18" lean-forward="false" selection-start-line="84" selection-start-column="18" selection-end-line="84" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/developer_tools/Java/jdk1.8.0_45/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="111" column="23" lean-forward="true" selection-start-line="111" selection-start-column="23" selection-end-line="111" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>

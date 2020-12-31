@@ -11,7 +11,8 @@ public class TestSynchronized {
     public static void main(String[] args) throws InterruptedException {
 
        // test01();
-        test02();
+        // test02();
+        test03();
     }
 
     //最简单的打印语句
@@ -43,6 +44,33 @@ public class TestSynchronized {
         t2.join();
         list.print();
     }
+
+
+    //添加语句放在  thread 线程里面  ，不是test01 里面的顺序添加
+    //猜测 结果可能是  ABCD  ABDC
+    private static void test03() throws InterruptedException {
+        MyList list = new MyList();
+        Thread t1 = new Thread() {
+            public void run() {
+                synchronized (list){   //对list 加锁
+                    list.add('C');
+                }
+            }
+        };
+        Thread t2 = new Thread() {
+            public void run() {
+                synchronized (list) { //对list 加锁
+                    list.add('D');
+                }
+            }
+        };
+        t1.start();
+        t2.start();
+        t1.join();      //主线程等待t1结束
+        t2.join();
+        list.print();
+    }
+
 }
 
 class MyList{
