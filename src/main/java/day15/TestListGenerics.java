@@ -1,4 +1,4 @@
-package day14.day15;
+package day15;
 
 import java.util.ArrayList;
 import java.util.Iterator;

@@ -1,4 +1,4 @@
-package day14.day15;
+package day15;
 
 import javax.lang.model.SourceVersion;
 import java.util.ArrayList;
