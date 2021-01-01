@@ -1,0 +1,2 @@
+animal=day23.Dog
+animal2=day23.Dog
